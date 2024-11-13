@@ -1,5 +1,4 @@
---File Contents:
-
+File Contents:
 Parser.cpp: main function 
 Decoder.cpp: Decoder function, that based on recieved message's IDs decodes message and saves it to corresponding CAR.h variable
 Helper_functions.h: Helper functions for decoding process
